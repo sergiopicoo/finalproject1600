@@ -1,4 +1,6 @@
 # Final Project IT 1600
+5G and the Evolution of Mobile Wireless Communications. 
+
 By: Sergio Pico
   
 Tutorial meant for students ages 15-20. This tutorial is meant for people that are thinking about certain types of technologies they want to work with/learn about during their college and high school years. 
@@ -16,4 +18,7 @@ Welcome to my final for INFOTC 1600 at Mizzou. My name is Sergio Pico and I will
 
 *5G has paved a path for many new technologies to develop at the level that we need them to perform.*   
 
-dd
+- **Fixed Wireless:** 5G eliminates the need for fixed lines to provide wireless network to homes around the world.
+- **Improved Mobile Broadband:** Improves the experience with cloud computing and cloud connected devices. It helps these devices faster, more uniform data rates with lower latency. Cannot forget to mention 5G helps lower costs of higher speeds, proving accessible real time responsiveness to the internet. 
+- **Ultra reliable connections:** Cases where a lot of sensors and information is interpreted with the aid of wireless networks are being aided by 5G connections. For example, self-driving cars, drones, and many more depend on extremely reliable, responsive, and fast data speeds. 
+
